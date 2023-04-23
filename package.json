@@ -1,0 +1,11 @@
+{
+  "name": "myblog",
+  "version": "1.0.0",
+  "description": "A place for those who love travelling",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Truong Hoang",
+  "license": "ISC"
+}
